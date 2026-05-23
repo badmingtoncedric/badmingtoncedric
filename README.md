@@ -49,6 +49,8 @@ les humains, les intelligences artificielles, les robots, les blockchains et les
 
 # 🤖 AIAOS
 
+<img src="http://web3invest.fr/assets/AIAOS.png" width="50%" />
+
 ## The Linux of AI Agents
 
 Imagine un système d’exploitation pensé non pas pour des applications…  
@@ -94,7 +96,7 @@ Imagine :
 Imagine aussi les conflits.  
 Les ruptures, les dérives, les guerres technologiques.
 
-> Chaque révolution crée ses bâtisseurs.
+> Chaque révolution crée ses bâtisseurs.  
 > Chaque rupture crée un nouveau cycle.
 
 ---
@@ -103,7 +105,7 @@ Les ruptures, les dérives, les guerres technologiques.
 
 Web3Invest est une organisation indépendante explorant :
 
-* le Web3,
+* le web3,
 * les agents IA,
 * l’automatisation,
 * la cybersécurité,
@@ -124,8 +126,8 @@ Nous imaginons le futur.
 
 ## 🛰️ Technologies & univers explorés
   
-`Blockchain` • `Bitcoin` • `Solana` • `Cardano` • `RWA`   
-`DeFi` • `GameFi` • `Trading`
+`Blockchain` • `Bitcoin` • `Solana` • `Cardano`    
+`DeFi` • `GameFi` • `Trading` • `RWA`
 
 `Docker` • `Linux` • `Infrastructure` • `Open Source`  
 `AI Agents` • `Automation` • `Cybersecurity` • `Multi-Agent Systems`  
@@ -135,8 +137,7 @@ Nous imaginons le futur.
 
 ## 🌌 Final thought
 
-Imagine que ce que nous appelons aujourd’hui “Internet”  
-ne soit encore que le commencement.
+Imagine que ce que nous appelons aujourd’hui “Internet” ne soit encore que le commencement.
 
 Bienvenue dans le prochain cycle.  
 **Web3Invest** - Ensemble, cultivons le web3
