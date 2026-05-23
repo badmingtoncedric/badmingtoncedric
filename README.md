@@ -140,4 +140,5 @@ Nous imaginons le futur.
 Imagine que ce que nous appelons aujourd’hui “Internet” ne soit encore que le commencement.
 
 Bienvenue dans le prochain cycle.  
-**Web3Invest** - Ensemble, cultivons le web3
+<img src="https://uptime.web3invest.fr/api/badge/9/uptime" /> [**Web3Invest**](https://web3invest.fr) - Ensemble, cultivons le web3  
+[Discord](https://discord.com/invite/SpfzrNzFCS) | [AIAOS](https://git.web3invest.fr/Web3Invest/w3i-aiaos-core) | [Uptime](https://uptime.web3invest.fr/status/aiaos)
