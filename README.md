@@ -7,6 +7,8 @@
 
 ---
 
+<img src="assets/w3i-vision-2.png" />
+
 ## 🧠 Imagine...
 
 Imagine les débuts d’Internet.
@@ -49,7 +51,7 @@ les humains, les intelligences artificielles, les robots, les blockchains et les
 
 # 🤖 AIAOS
 
-<img src="http://web3invest.fr/assets/AIAOS.png" width="50%" />
+<img src="http://web3invest.fr/assets/AIAOS.png"/>
 
 ## The Linux of AI Agents
 
@@ -120,18 +122,16 @@ Nous imaginons le futur.
 
 ## ⚡ Mission
 
-> Construire les fondations du web synergique 4.0
+> Construire les fondations du web synergique 4.0 de demain
 
 ---
 
 ## 🛰️ Technologies & univers explorés
   
-`Blockchain` • `Bitcoin` • `Solana` • `Cardano`    
-`DeFi` • `GameFi` • `Trading` • `RWA`
+`Blockchain` • `Bitcoin` • `Solana` • `Cardano` • `DeFi` • `GameFi` • `Trading` • `RWA`    
 
-`Docker` • `Linux` • `Infrastructure` • `Open Source`  
-`AI Agents` • `Automation` • `Cybersecurity` • `Multi-Agent Systems`  
-`Smart Contracts` • `Quantitative Systems` • `Robotics`
+`Docker` • `Linux` • `Infrastructure` • `Open Source` • `Smart Contracts` • `Quantitative Systems` • `Robotics`  
+`AI Agents` • `Multi-Agent Systems` • `Cybersecurity` • `Automation`  
 
 ---
 
